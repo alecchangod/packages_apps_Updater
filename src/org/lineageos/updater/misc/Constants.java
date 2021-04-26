@@ -39,10 +39,10 @@ public final class Constants {
 
     public static final String PROP_AB_DEVICE = "ro.build.ab_update";
     public static final String PROP_BUILD_DATE = "ro.build.date.utc";
-    public static final String PROP_BUILD_VERSION = "ro.modversion";
+    public static final String PROP_BUILD_VERSION = "ro.xtended.build.version";
     public static final String PROP_DEVICE = "ro.xtended.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
-    public static final String PROP_RELEASE_TYPE = "ro.xtended.releasetype";
+    public static final String PROP_RELEASE_TYPE = "ro.xtended.build.type";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "xtended.updater.allow_downgrading";
     public static final String PROP_UPDATER_URI = "xtended.updater.uri";
 
@@ -52,5 +52,5 @@ public final class Constants {
     public static final String PREF_INSTALL_AGAIN = "install_again";
     public static final String PREF_INSTALL_NOTIFIED = "install_notified";
 
-    public static final String PROP_MAINTAINER = "ro.xtended.maintainer";
+    public static final String PROP_MAINTAINER = "ro.xtended.build.maintainer";
 }
