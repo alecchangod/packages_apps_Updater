@@ -88,13 +88,13 @@
 
     <string name="snack_update_not_installable">This update can\'t be installed on top of the current build.</string>
 
-    <string name="header_title_text">MSM-Xtended</string>
+    <string name="header_title_text">Xtended</string>
     <string name="header_android_version">Android Version: <xliff:g id="version" example="10">%1$s</xliff:g></string>
     <string name="header_security_patch">Security patch level: <xliff:g id="patch" example="March 5 2020">%1$s</xliff:g></string>
     <string name="header_last_updates_check">Last successful check for update at <xliff:g id="time" example="01:23">%1$s</xliff:g></string>
 
-    <string name="list_build_version">MSM-Xtended <xliff:g id="version" example="Meteor">%1$s</xliff:g></string>
-    <string name="list_build_version_date">MSM-Xtended <xliff:g id="version" example="v7.0">%1$s</xliff:g> - <xliff:g id="date" example="March 16, 2020">%2$s</xliff:g></string>
+    <string name="list_build_version">Xtended <xliff:g id="version" example="Meteor">%1$s</xliff:g></string>
+    <string name="list_build_version_date">Xtended <xliff:g id="version" example="v7.0">%1$s</xliff:g> - <xliff:g id="date" example="March 16, 2020">%2$s</xliff:g></string>
     <string name="list_device_name">Device: <xliff:g id="device" example="hotdogb">%1$s</xliff:g></string>
     <string name="list_download_progress_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> of <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> • <xliff:g id="percentage" example="56">%3$s</xliff:g></string>
     <string name="list_download_progress_eta_new"><xliff:g id="filesize_without_unit" example="12.2">%1$s</xliff:g> of <xliff:g id="filesize_without_unit" example="310 MB">%2$s</xliff:g> (<xliff:g id="eta" example="3 minutes left">%3$s</xliff:g>) • <xliff:g id="percentage" example="56">%4$s</xliff:g></string>

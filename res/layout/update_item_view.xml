@@ -38,7 +38,7 @@
                 android:paddingBottom="8sp"
                 android:textColor="?android:attr/textColorPrimary"
                 android:textSize="14sp"
-                tools:text="MSM-Xtended" />
+                tools:text="Xtended" />
 
             <TextView
                 android:id="@+id/build_date"
